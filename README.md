@@ -1,4 +1,4 @@
-# freedom_zybo
+# Freedom_zybo Repository
 =======
 
 This repository contains the RTL created by SiFive for its Freedom E300 and U500
@@ -27,7 +27,7 @@ Second, you should enter the work dir like this:
 $ cd freedom_zybo/freedom
 ```
 
-Optionally, if you did not compile the toolchain and you do like this(it will takes much time):
+Optionally, if you did not compile the toolchain and you do like this(it will take much time):
 ```sh
 $ cd rocket-chip/riscv-tools
 $ export RISCV=/yout/install/toolchain/location
