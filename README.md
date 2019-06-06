@@ -11,8 +11,7 @@ instructions on how to use this repo.
 
 Software Requirement
 --------------------
-RISC-V software toolchain
-To compile the bootloaders for  Freedom E300 Zybo, Arty and U500 VC707
+To compile the bootloaders for Freedom E300 Zybo, Arty and U500 VC707
 FPGA dev kits, the RISC-V software toolchain must be installed locally and
 set the $(RISCV) environment variable to point to the location of where the
 RISC-V toolchains are installed. You must pay attention to the version, or 
